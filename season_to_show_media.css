@@ -1,0 +1,77 @@
+@media screen and (max-width: 600px) {
+  .main-title {
+    text-align: center;
+    color: var(--green-bg);
+    font-family: "MavenPro", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 29px;
+    margin-bottom: 29px;
+  }
+
+  .season-to-sow {
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+  }
+
+  .seed-pkg {
+    width: 242px;
+    height: 242px;
+    background-color: var(--green-bg);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .seed-pkg img {
+    transform: scale(0.65);
+  }
+
+  .season {
+    font-family: "OpenSans", Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 0 45px;
+  }
+
+  .season h1 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 16px;
+  }
+
+  .season p {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .sow-tips {
+    background-color: var(--green-bg);
+    width: 99px;
+    height: 35px;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    margin: auto;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    box-shadow: 0 4px 4px #00000040;
+  }
+
+  hr {
+    width: 202px;
+    border: 3px solid var(--green-bg);
+    border-radius: 3px;
+    margin: 40px auto;
+  }
+}
