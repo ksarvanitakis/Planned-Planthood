@@ -1,0 +1,67 @@
+.main-title {
+  text-align: center;
+  color: var(--green-bg);
+  font-family: 'MavenPro', Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  margin-top: 29px;
+  margin-bottom: 29px;
+}
+
+.season-to-sow {
+  width: 911px;
+  height: 377px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 377px auto;
+}
+
+.seed-pkg {
+  width: 100%;
+  background-color: var(--green-bg);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.season {
+  font-family: 'OpenSans', Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 0 45px;
+}
+
+.season h1 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 80px;
+  margin-bottom: 16px;
+}
+
+.season p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.sow-tips {
+  background-color: var(--green-bg);
+  width: 179px;
+  height: 63px;
+  border: none;
+  border-radius: 9px;
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+  margin-left: auto;
+  margin-top: 32px;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+hr {
+  width: 304px;
+  border: 3px solid var(--green-bg);
+  border-radius: 3px;
+  margin: 80px auto;
+}
