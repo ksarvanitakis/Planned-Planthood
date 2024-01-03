@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'MavenPro';
+  src: url(fonts/MavenPro-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url(fonts/OpenSans-VariableFont_wdth_wght.ttf);
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(fonts/Inter-VariableFont_slnt_wght.ttf);
+}
+
+html {
+  --brown-bg: #9e6d52;
+  --green-bg: #0a846e;
+  --nav-text: #055647;
+}
+
+body {
+  background-color: #fcf5fc;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: white;
+  }
+}
