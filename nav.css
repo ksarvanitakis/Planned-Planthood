@@ -33,7 +33,7 @@
 .hero-item1 {
   grid-column: 1/2;
   grid-row: 1/3;
-  background-image: url(img/photo-hand-upright.avif);
+  background-image: url(assets/heroBg.png);
   background-position: 50% 50%;
   background-size: 100%;
   display: flex;

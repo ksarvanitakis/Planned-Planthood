@@ -2,14 +2,14 @@
   .main-title {
     text-align: center;
     color: var(--green-bg);
-    font-family: "MavenPro", Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'MavenPro', Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
     font-weight: 500;
     margin-top: 29px;
     margin-bottom: 29px;
   }
 
-  .season-to-sow {
+  .season-to-show {
     width: 100%;
     height: auto;
     margin-left: auto;
@@ -35,7 +35,7 @@
   }
 
   .season {
-    font-family: "OpenSans", Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'OpenSans', Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
     padding: 0 45px;

@@ -35,7 +35,7 @@
 }
 
 .one .card-gfx {
-  background-image: url(img/photo-cucumber.avif);
+  background-image: url(assets/1.png);
 }
 
 .plant-card .two {
@@ -44,7 +44,7 @@
 }
 
 .two .card-gfx {
-  background-image: url(img/photo-tomatoes.avif);
+  background-image: url(assets/2.png);
 }
 
 .plant-card .three {
@@ -53,7 +53,7 @@
 }
 
 .three .card-gfx {
-  background-image: url(img/photo-fruits.avif);
+  background-image: url(assets/3.png);
 }
 
 .plant-card .four {
@@ -62,7 +62,7 @@
 }
 
 .four .card-gfx {
-  background-image: url(img/photo-peas2.avif);
+  background-image: url(assets/4.png);
 }
 
 .plant-card .five {
@@ -71,7 +71,7 @@
 }
 
 .five .card-gfx {
-  background-image: url(img/photo-turnip.avif);
+  background-image: url(assets/5.png);
 }
 
 .plant-card .six {
@@ -80,7 +80,7 @@
 }
 
 .six .card-gfx {
-  background-image: url(img/photo-1.avif);
+  background-image: url(assets/6.png);
 }
 
 .card-gfx {
